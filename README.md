@@ -92,7 +92,7 @@ Esperamos que este guia tenha fornecido uma visão abrangente sobre o Windows SD
 - IOS Iroot Detection Bypass V1
 - IOS Kill SSL
 ## Demonstração
-Andromeda Microsoft Word Macro https://youtu.be/7vR7c6a76CE
+Andromeda Frida Plugin https://youtu.be/7vR7c6a76CE
 
 ## Instalação
 
