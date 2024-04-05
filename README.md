@@ -91,9 +91,6 @@ Esperamos que este guia tenha fornecido uma visão abrangente sobre o Windows SD
 - IOS Trustkit SSL Bypass V4
 - IOS Iroot Detection Bypass V1
 - IOS Kill SSL
-## Demonstração
-Andromeda Frida Plugin https://youtu.be/7vR7c6a76CE
-
 ## Instalação
 
 ```bash
