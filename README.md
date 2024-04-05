@@ -31,6 +31,11 @@ O Windows SDK Manager é uma ferramenta fundamental para qualquer desenvolvedor 
 Esperamos que este guia tenha fornecido uma visão abrangente sobre o Windows SDK Manager e suas capacidades de gerenciamento de versões do Windows. Com esse conhecimento, você está pronto
 
 
+## Screenshots
+
+![App Screenshot](https://andromedasoftware.com.br/screenshot/Frida.png)
+
+
 ## Funcionalidades
 
 - Whatsapp Decript SSL and Sha256 and (AES) Decript
