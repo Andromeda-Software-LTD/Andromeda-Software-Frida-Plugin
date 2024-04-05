@@ -1,0 +1,14 @@
+C:\Users\cabec\Documents\Projetcs\Fsociety - Criptografia Upadated Screen\Fsociety - Criptografia Upadated\Fsociety-ToolKit\Fsociety-ToolKit\obj\Release\Andromeda-Software-Frida-Plugin.vbproj.AssemblyReference.cache
+C:\Users\cabec\Documents\Projetcs\Fsociety - Criptografia Upadated Screen\Fsociety - Criptografia Upadated\Fsociety-ToolKit\Fsociety-ToolKit\obj\Release\Andromeda_Software_Frida_Plugin.FuckEncryption.resources
+C:\Users\cabec\Documents\Projetcs\Fsociety - Criptografia Upadated Screen\Fsociety - Criptografia Upadated\Fsociety-ToolKit\Fsociety-ToolKit\obj\Release\Andromeda_Software_Frida_Plugin.Resources.resources
+C:\Users\cabec\Documents\Projetcs\Fsociety - Criptografia Upadated Screen\Fsociety - Criptografia Upadated\Fsociety-ToolKit\Fsociety-ToolKit\obj\Release\Andromeda-Software-Frida-Plugin.vbproj.GenerateResource.cache
+C:\Users\cabec\Documents\Projetcs\Fsociety - Criptografia Upadated Screen\Fsociety - Criptografia Upadated\Fsociety-ToolKit\Fsociety-ToolKit\obj\Release\Andromeda-Software-Frida-Plugin.vbproj.CoreCompileInputs.cache
+C:\Users\cabec\Documents\Projetcs\Fsociety - Criptografia Upadated Screen\Fsociety - Criptografia Upadated\Fsociety-ToolKit\Fsociety-ToolKit\bin\Release\Andromeda_Software_Frida_Plugin.exe.config
+C:\Users\cabec\Documents\Projetcs\Fsociety - Criptografia Upadated Screen\Fsociety - Criptografia Upadated\Fsociety-ToolKit\Fsociety-ToolKit\bin\Release\Andromeda_Software_Frida_Plugin.exe
+C:\Users\cabec\Documents\Projetcs\Fsociety - Criptografia Upadated Screen\Fsociety - Criptografia Upadated\Fsociety-ToolKit\Fsociety-ToolKit\bin\Release\Andromeda_Software_Frida_Plugin.pdb
+C:\Users\cabec\Documents\Projetcs\Fsociety - Criptografia Upadated Screen\Fsociety - Criptografia Upadated\Fsociety-ToolKit\Fsociety-ToolKit\bin\Release\Andromeda_Software_Frida_Plugin.xml
+C:\Users\cabec\Documents\Projetcs\Fsociety - Criptografia Upadated Screen\Fsociety - Criptografia Upadated\Fsociety-ToolKit\Fsociety-ToolKit\bin\Release\Guna.UI2.dll
+C:\Users\cabec\Documents\Projetcs\Fsociety - Criptografia Upadated Screen\Fsociety - Criptografia Upadated\Fsociety-ToolKit\Fsociety-ToolKit\obj\Release\Andromed.2C265803.Up2Date
+C:\Users\cabec\Documents\Projetcs\Fsociety - Criptografia Upadated Screen\Fsociety - Criptografia Upadated\Fsociety-ToolKit\Fsociety-ToolKit\obj\Release\Andromeda_Software_Frida_Plugin.exe
+C:\Users\cabec\Documents\Projetcs\Fsociety - Criptografia Upadated Screen\Fsociety - Criptografia Upadated\Fsociety-ToolKit\Fsociety-ToolKit\obj\Release\Andromeda_Software_Frida_Plugin.xml
+C:\Users\cabec\Documents\Projetcs\Fsociety - Criptografia Upadated Screen\Fsociety - Criptografia Upadated\Fsociety-ToolKit\Fsociety-ToolKit\obj\Release\Andromeda_Software_Frida_Plugin.pdb

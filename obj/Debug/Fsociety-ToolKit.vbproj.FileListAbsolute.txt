@@ -1,0 +1,57 @@
+C:\Users\User\Desktop\Frida-Server\Fsociety-ToolKit\Fsociety-ToolKit\bin\Debug\Fsociety-ToolKit.exe.config
+C:\Users\User\Desktop\Frida-Server\Fsociety-ToolKit\Fsociety-ToolKit\bin\Debug\Fsociety-ToolKit.exe
+C:\Users\User\Desktop\Frida-Server\Fsociety-ToolKit\Fsociety-ToolKit\bin\Debug\Fsociety-ToolKit.pdb
+C:\Users\User\Desktop\Frida-Server\Fsociety-ToolKit\Fsociety-ToolKit\bin\Debug\Fsociety-ToolKit.xml
+C:\Users\User\Desktop\Frida-Server\Fsociety-ToolKit\Fsociety-ToolKit\bin\Debug\Guna.UI2.dll
+C:\Users\User\Desktop\Frida-Server\Fsociety-ToolKit\Fsociety-ToolKit\obj\Debug\Fsociety-ToolKit.vbproj.AssemblyReference.cache
+C:\Users\User\Desktop\Frida-Server\Fsociety-ToolKit\Fsociety-ToolKit\obj\Debug\Fsociety-ToolKit.vbproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Frida-Server\Fsociety-ToolKit\Fsociety-ToolKit\obj\Debug\Fsociety_ToolKit.Form1.resources
+C:\Users\User\Desktop\Frida-Server\Fsociety-ToolKit\Fsociety-ToolKit\obj\Debug\Fsociety_ToolKit.Resources.resources
+C:\Users\User\Desktop\Frida-Server\Fsociety-ToolKit\Fsociety-ToolKit\obj\Debug\Fsociety-ToolKit.vbproj.GenerateResource.cache
+C:\Users\User\Desktop\Frida-Server\Fsociety-ToolKit\Fsociety-ToolKit\obj\Debug\Fsociety-ToolKit.vbproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Frida-Server\Fsociety-ToolKit\Fsociety-ToolKit\obj\Debug\Fsociety-ToolKit.vbproj.CopyComplete
+C:\Users\User\Desktop\Frida-Server\Fsociety-ToolKit\Fsociety-ToolKit\obj\Debug\Fsociety-ToolKit.exe
+C:\Users\User\Desktop\Frida-Server\Fsociety-ToolKit\Fsociety-ToolKit\obj\Debug\Fsociety-ToolKit.xml
+C:\Users\User\Desktop\Frida-Server\Fsociety-ToolKit\Fsociety-ToolKit\obj\Debug\Fsociety-ToolKit.pdb
+C:\Users\Servidor\Desktop\Fsociety - Criptografia\Fsociety-ToolKit\Fsociety-ToolKit\bin\Debug\Guna.UI2.dll
+C:\Users\Servidor\Desktop\Fsociety - Criptografia\Fsociety-ToolKit\Fsociety-ToolKit\obj\Debug\Fsociety-ToolKit.vbproj.AssemblyReference.cache
+C:\Users\Servidor\Desktop\Fsociety - Criptografia\Fsociety-ToolKit\Fsociety-ToolKit\obj\Debug\Fsociety-ToolKit.vbproj.GenerateResource.cache
+C:\Users\Servidor\Desktop\Fsociety - Criptografia\Fsociety-ToolKit\Fsociety-ToolKit\obj\Debug\Fsociety-ToolKit.vbproj.CoreCompileInputs.cache
+C:\Users\Servidor\Desktop\Fsociety - Criptografia\Fsociety-ToolKit\Fsociety-ToolKit\obj\Debug\Fsociety-ToolKit.vbproj.CopyComplete
+C:\Users\Servidor\Desktop\Fsociety - Criptografia\Fsociety-ToolKit\Fsociety-ToolKit\obj\Debug\Fuck_Encryption.FuckEncryption.resources
+C:\Users\Servidor\Desktop\Fsociety - Criptografia\Fsociety-ToolKit\Fsociety-ToolKit\obj\Debug\Fuck_Encryption.Resources.resources
+C:\Users\Servidor\Desktop\Fsociety - Criptografia\Fsociety-ToolKit\Fsociety-ToolKit\bin\Debug\Fuck_Encryption.exe.config
+C:\Users\Servidor\Desktop\Fsociety - Criptografia\Fsociety-ToolKit\Fsociety-ToolKit\bin\Debug\Fuck_Encryption.exe
+C:\Users\Servidor\Desktop\Fsociety - Criptografia\Fsociety-ToolKit\Fsociety-ToolKit\bin\Debug\Fuck_Encryption.pdb
+C:\Users\Servidor\Desktop\Fsociety - Criptografia\Fsociety-ToolKit\Fsociety-ToolKit\bin\Debug\Fuck_Encryption.xml
+C:\Users\Servidor\Desktop\Fsociety - Criptografia\Fsociety-ToolKit\Fsociety-ToolKit\obj\Debug\Fuck_Encryption.exe
+C:\Users\Servidor\Desktop\Fsociety - Criptografia\Fsociety-ToolKit\Fsociety-ToolKit\obj\Debug\Fuck_Encryption.xml
+C:\Users\Servidor\Desktop\Fsociety - Criptografia\Fsociety-ToolKit\Fsociety-ToolKit\obj\Debug\Fuck_Encryption.pdb
+C:\Users\cabec\Desktop\Fsociety - Criptografia Upadated\Fsociety-ToolKit\Fsociety-ToolKit\bin\Debug\Fuck_Encryption.exe.config
+C:\Users\cabec\Desktop\Fsociety - Criptografia Upadated\Fsociety-ToolKit\Fsociety-ToolKit\bin\Debug\Fuck_Encryption.exe
+C:\Users\cabec\Desktop\Fsociety - Criptografia Upadated\Fsociety-ToolKit\Fsociety-ToolKit\bin\Debug\Fuck_Encryption.pdb
+C:\Users\cabec\Desktop\Fsociety - Criptografia Upadated\Fsociety-ToolKit\Fsociety-ToolKit\bin\Debug\Fuck_Encryption.xml
+C:\Users\cabec\Desktop\Fsociety - Criptografia Upadated\Fsociety-ToolKit\Fsociety-ToolKit\bin\Debug\Guna.UI2.dll
+C:\Users\cabec\Desktop\Fsociety - Criptografia Upadated\Fsociety-ToolKit\Fsociety-ToolKit\obj\Debug\Fsociety-ToolKit.vbproj.AssemblyReference.cache
+C:\Users\cabec\Desktop\Fsociety - Criptografia Upadated\Fsociety-ToolKit\Fsociety-ToolKit\obj\Debug\Fuck_Encryption.FuckEncryption.resources
+C:\Users\cabec\Desktop\Fsociety - Criptografia Upadated\Fsociety-ToolKit\Fsociety-ToolKit\obj\Debug\Fuck_Encryption.Resources.resources
+C:\Users\cabec\Desktop\Fsociety - Criptografia Upadated\Fsociety-ToolKit\Fsociety-ToolKit\obj\Debug\Fsociety-ToolKit.vbproj.GenerateResource.cache
+C:\Users\cabec\Desktop\Fsociety - Criptografia Upadated\Fsociety-ToolKit\Fsociety-ToolKit\obj\Debug\Fsociety-ToolKit.vbproj.CoreCompileInputs.cache
+C:\Users\cabec\Desktop\Fsociety - Criptografia Upadated\Fsociety-ToolKit\Fsociety-ToolKit\obj\Debug\Fsociety-ToolKit.vbproj.CopyComplete
+C:\Users\cabec\Desktop\Fsociety - Criptografia Upadated\Fsociety-ToolKit\Fsociety-ToolKit\obj\Debug\Fuck_Encryption.exe
+C:\Users\cabec\Desktop\Fsociety - Criptografia Upadated\Fsociety-ToolKit\Fsociety-ToolKit\obj\Debug\Fuck_Encryption.xml
+C:\Users\cabec\Desktop\Fsociety - Criptografia Upadated\Fsociety-ToolKit\Fsociety-ToolKit\obj\Debug\Fuck_Encryption.pdb
+C:\Users\cabec\Documents\Projetcs\Fsociety - Criptografia Upadated Screen\Fsociety - Criptografia Upadated\Fsociety-ToolKit\Fsociety-ToolKit\bin\Debug\Fuck_Encryption.exe.config
+C:\Users\cabec\Documents\Projetcs\Fsociety - Criptografia Upadated Screen\Fsociety - Criptografia Upadated\Fsociety-ToolKit\Fsociety-ToolKit\bin\Debug\Fuck_Encryption.exe
+C:\Users\cabec\Documents\Projetcs\Fsociety - Criptografia Upadated Screen\Fsociety - Criptografia Upadated\Fsociety-ToolKit\Fsociety-ToolKit\bin\Debug\Fuck_Encryption.pdb
+C:\Users\cabec\Documents\Projetcs\Fsociety - Criptografia Upadated Screen\Fsociety - Criptografia Upadated\Fsociety-ToolKit\Fsociety-ToolKit\bin\Debug\Fuck_Encryption.xml
+C:\Users\cabec\Documents\Projetcs\Fsociety - Criptografia Upadated Screen\Fsociety - Criptografia Upadated\Fsociety-ToolKit\Fsociety-ToolKit\bin\Debug\Guna.UI2.dll
+C:\Users\cabec\Documents\Projetcs\Fsociety - Criptografia Upadated Screen\Fsociety - Criptografia Upadated\Fsociety-ToolKit\Fsociety-ToolKit\obj\Debug\Fsociety-ToolKit.vbproj.AssemblyReference.cache
+C:\Users\cabec\Documents\Projetcs\Fsociety - Criptografia Upadated Screen\Fsociety - Criptografia Upadated\Fsociety-ToolKit\Fsociety-ToolKit\obj\Debug\Fuck_Encryption.FuckEncryption.resources
+C:\Users\cabec\Documents\Projetcs\Fsociety - Criptografia Upadated Screen\Fsociety - Criptografia Upadated\Fsociety-ToolKit\Fsociety-ToolKit\obj\Debug\Fuck_Encryption.Resources.resources
+C:\Users\cabec\Documents\Projetcs\Fsociety - Criptografia Upadated Screen\Fsociety - Criptografia Upadated\Fsociety-ToolKit\Fsociety-ToolKit\obj\Debug\Fsociety-ToolKit.vbproj.GenerateResource.cache
+C:\Users\cabec\Documents\Projetcs\Fsociety - Criptografia Upadated Screen\Fsociety - Criptografia Upadated\Fsociety-ToolKit\Fsociety-ToolKit\obj\Debug\Fsociety-ToolKit.vbproj.CoreCompileInputs.cache
+C:\Users\cabec\Documents\Projetcs\Fsociety - Criptografia Upadated Screen\Fsociety - Criptografia Upadated\Fsociety-ToolKit\Fsociety-ToolKit\obj\Debug\Fsociety.62AD0583.Up2Date
+C:\Users\cabec\Documents\Projetcs\Fsociety - Criptografia Upadated Screen\Fsociety - Criptografia Upadated\Fsociety-ToolKit\Fsociety-ToolKit\obj\Debug\Fuck_Encryption.exe
+C:\Users\cabec\Documents\Projetcs\Fsociety - Criptografia Upadated Screen\Fsociety - Criptografia Upadated\Fsociety-ToolKit\Fsociety-ToolKit\obj\Debug\Fuck_Encryption.xml
+C:\Users\cabec\Documents\Projetcs\Fsociety - Criptografia Upadated Screen\Fsociety - Criptografia Upadated\Fsociety-ToolKit\Fsociety-ToolKit\obj\Debug\Fuck_Encryption.pdb
